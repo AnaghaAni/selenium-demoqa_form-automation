@@ -19,7 +19,7 @@ public class automatingForm {
 		// Launch Chrome browser
 		WebDriver driver = new ChromeDriver();
 
-		// Navigate to the form URL
+			// Navigate to the form URL
 		driver.get("https://demoqa.com/automation-practice-form");
 
 		// Maximize the browser window
@@ -298,3 +298,4 @@ public class automatingForm {
 
 	
 }
+
